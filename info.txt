@@ -1,0 +1,2 @@
+файлы model.ipynb,train это модель Ивана Доли.
+файлы train8,yolo8n.pt,app,main модель и api Вероники Ветлугиной.
